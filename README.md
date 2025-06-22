@@ -21,9 +21,11 @@ A machine learning–powered tool to detect phishing emails using **Logistic Reg
 ```bash
 git clone https://github.com/Lalitkumar21/Phishing-email-detection/
 cd Phishing-email-detection/
+```
 2. Install dependencies
    ```bash
      pip install -r requirements.txt
+   ```
 3. Install Dataset
 https://huggingface.co/datasets/zefang-liu/phishing-email-dataset
 4. open jupyter notebook
@@ -32,6 +34,7 @@ You will get your trained model and vectorizer in your current working directory
 5. Run testing_model.py via
     ```bash
       streamlit run testing_model.py
+    ```
 6. Open http://localhost:8501 on your browser and your project is running...
 
 Check your mails for security
