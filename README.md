@@ -37,4 +37,8 @@ You will get your trained model and vectorizer in your current working directory
 ```
 ### 6. Open http://localhost:8501 on your browser and your project is running...
 
-# Check your mails for security
+#### Check your mails for security
+
+##For Understanding the code watch 
+
+https://youtu.be/WSBye_j-aq0
